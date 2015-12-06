@@ -38,8 +38,8 @@ localhost/<project_name>/edit.php
 The code for database is also included in the project named "test.sql". 
 
 The interface is also visualized with css so every button, text and tables are colorized and rebuilded with some segment code of colors
-and the code for that is included in "css_generator.css". For the buttons, the css code is included by "class="<button_class>" in which
-it can reach the colors, width,height,etc. 
+and the code for that is included in "css_generator.css". For the buttons, the css code is included by "class="<code_pointer_for
+_buttons>" in which it can reach the colors, width,height,etc. 
 
 
 
